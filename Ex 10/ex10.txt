@@ -1,0 +1,11 @@
+Implement Reader Writer Problem - State Pattern
+
+Create a list with function sort, get value at index
+
+Make an Adapter List to make it suitable for NDuminetion array to work with
+
+Calculate the price of an entity- Apply different strategy. 
+
+Create a student object. Design a facade pattern for registration of student, 
+get info of personal_details, hobby, professional_body(IEEECS, ACM ..). store the 
+details in file during registration process. WHave a display function to display the details.

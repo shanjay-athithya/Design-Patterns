@@ -1,0 +1,19 @@
+Design a simulation system for a car manufacturing company.
+
+Implement the Abstract Factory pattern to create a car production
+
+system that supports different car models such as Sedan, SUV, and
+
+Hatchback. Each car model has specific components such as engine,
+
+body type, and interior design. The system should allow the factory to
+
+produce cars of different models by using the appropriate set of
+
+components. Demonstrate the functionality of the system by creating
+
+instances of different car models using the Abstract Factory pattern
+
+and showcase the unique features and components of each car model.
+
+Raise exception at the appropriate places
